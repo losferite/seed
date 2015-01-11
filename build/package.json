@@ -1,0 +1,23 @@
+{
+  "name": "lf_seed",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-less": "*",
+    "gulp-watch": "*",
+    "gulp-concat": "*",
+    "gulp-angular-templatecache": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}

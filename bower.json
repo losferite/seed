@@ -1,0 +1,16 @@
+{
+  "name": "seed",
+  "description": "start project on angular",
+  "version": "0.0.0",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "html5-boilerplate": "~4.3.0",
+    "jquery": "^2.0.0",
+    "bootstrap": "^3.0.0"
+  }
+}
